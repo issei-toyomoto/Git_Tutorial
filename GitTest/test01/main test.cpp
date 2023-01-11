@@ -4,7 +4,11 @@ int main(void)
 {
 	printf("Hello Git World!!\n");
 
-	printf("Branch Test");
+	printf("Branch Test\n");
+	printf("Branch Test\n");
+	printf("Branch Test\n");
+	printf("Branch Test\n");
+	printf("Branch Test\n");
 
 	return 0;
 }
